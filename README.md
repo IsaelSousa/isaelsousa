@@ -16,14 +16,14 @@ Utilizo python para estudos baseados em RPA(Robotic Process Automation)
 
 ## Tecnologias
 
-![git](https://cdn.iconscout.com/icon/free/png-64/git-225996.png) 
-![reactjs](https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png)
-![typescript](https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png)
-![sass](https://cdn.iconscout.com/icon/free/png-64/sass-226054.png)
-![nodejs](https://cdn.iconscout.com/icon/free/png-64/nodejs-2-226035.png)
-![express](https://cdn.iconscout.com/icon/free/png-64/express-9-1175170.png)
-![mongodb](https://cdn.iconscout.com/icon/free/png-64/mongodb-226029.png)
-![android](https://cdn.iconscout.com/icon/free/png-64/android-206-675862.png)
+![git](https://cdn.iconscout.com/icon/free/png-32/git-225996.png) 
+![reactjs](https://cdn.iconscout.com/icon/free/png-32/react-3-1175109.png)
+![typescript](https://cdn.iconscout.com/icon/free/png-32/typescript-1174965.png)
+![sass](https://cdn.iconscout.com/icon/free/png-32/sass-226054.png)
+![nodejs](https://cdn.iconscout.com/icon/free/png-32/nodejs-2-226035.png)
+![express](https://cdn.iconscout.com/icon/free/png-32/express-9-1175170.png)
+![mongodb](https://cdn.iconscout.com/icon/free/png-32/mongodb-226029.png)
+![android](https://cdn.iconscout.com/icon/free/png-32/android-206-675862.png)
 
 Atualmente trabalho na área fiscal, enquanto desenvolvo habilidades como programador, automatizo alguns processos cotidianos da equipe.
 
