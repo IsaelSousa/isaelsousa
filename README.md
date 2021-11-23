@@ -11,8 +11,8 @@ Este é o meu cantinho de códigos, contém uma variedade de projetos. 👩‍�
 Utilizo python para estudos baseados em RPA(Robotic Process Automation)
 
 ## Linguagens de Programação
-![javascript](https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png)
-![python](https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png)
+![javascript](https://cdn.iconscout.com/icon/free/png-32/javascript-2752148-2284965.png)
+![python](https://cdn.iconscout.com/icon/free/png-32/python-2-226051.png)
 
 ## Tecnologias
 
