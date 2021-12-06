@@ -8,7 +8,8 @@ Busco desenvolver minha skill como programador, comecei na área devido a minha 
 Curso Análise e desenvolvimento de sistemas na UNIP .📚 
 
 Este é o meu cantinho de códigos, contém uma variedade de projetos. 👩‍💻  
-Utilizo python para estudos baseados em RPA(Robotic Process Automation)
+Utilizo python para estudos baseados em RPA(Robotic Process Automation),
+mas busco me desenvolver como desenvolvedor web.
 
 ## Linguagens de Programação
 ![javascript](https://cdn.iconscout.com/icon/free/png-32/javascript-2752148-2284965.png)
