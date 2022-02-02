@@ -25,6 +25,7 @@ mas busco me desenvolver como desenvolvedor web.
 ![express](https://cdn.iconscout.com/icon/free/png-32/express-9-1175170.png)
 ![mongodb](https://cdn.iconscout.com/icon/free/png-32/mongodb-226029.png)
 ![android](https://cdn.iconscout.com/icon/free/png-32/android-206-675862.png)
+![flutter](https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png)
 
 Atualmente trabalho na área fiscal, enquanto desenvolvo habilidades como programador, automatizo alguns processos cotidianos da equipe.  
 -> Automatização de relatórios(reduzindo algumas horas de trabalhos para minutos de simples analises)  
