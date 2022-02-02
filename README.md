@@ -26,7 +26,10 @@ mas busco me desenvolver como desenvolvedor web.
 ![mongodb](https://cdn.iconscout.com/icon/free/png-32/mongodb-226029.png)
 ![android](https://cdn.iconscout.com/icon/free/png-32/android-206-675862.png)
 
-Atualmente trabalho na área fiscal, enquanto desenvolvo habilidades como programador, automatizo alguns processos cotidianos da equipe.
+Atualmente trabalho na área fiscal, enquanto desenvolvo habilidades como programador, automatizo alguns processos cotidianos da equipe.  
+-> Automatização de relatórios(reduzindo algumas horas de trabalhos para minutos de simples analises)  
+-> Arquivo de documentos(tornei o processo de separação de documentos automático)  
+:D
 
 Redes Sociais  
 [![instagram](https://cdn.iconscout.com/icon/free/png-32/instagram-188-498425.png)](https://www.instagram.com/isaelsantos0/?hl=pt-br)
