@@ -9,7 +9,7 @@ Curso Análise e desenvolvimento de sistemas na UNIP .📚
 
 Este é o meu cantinho de códigos, contém uma variedade de projetos. 👩‍💻  
 Utilizo python para estudos baseados em RPA(Robotic Process Automation),
-mas busco me desenvolver como desenvolvedor web.
+mas busco me desenvolver como desenvolvedor fullstack.
 
 ## Linguagens de Programação
 ![javascript](https://cdn.iconscout.com/icon/free/png-32/javascript-2752148-2284965.png)
@@ -27,9 +27,8 @@ mas busco me desenvolver como desenvolvedor web.
 ![android](https://cdn.iconscout.com/icon/free/png-32/android-206-675862.png)
 ![flutter](https://cdn.iconscout.com/icon/free/png-32/flutter-2038877-1720090.png)
 
-Atualmente trabalho na área fiscal, enquanto desenvolvo habilidades como programador, automatizo alguns processos cotidianos da equipe.  
--> Automatização de relatórios(reduzindo algumas horas de trabalhos para minutos de simples analises)  
--> Arquivo de documentos(tornei o processo de separação de documentos automático)  
+Atualmente sou Software Developer Jr. 
+Porém já fiz/faço trabalhos com RPA, Web, Mobile e backend.
 :D
 
 Redes Sociais  
