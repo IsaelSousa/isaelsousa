@@ -39,6 +39,8 @@ Redes Sociais
 ![Profile Views](https://komarev.com/ghpvc/?username=IsaelSousa)
 ### Até logo! :D
 
+#### (Read Me - Desatualizado no momento)
+
 ~~~javascript
 return 0;
 ~~~
