@@ -11,8 +11,8 @@ Este é o meu cantinho de códigos, contém uma variedade de projetos. 👩‍�
 
 ## Linguagens de Programação
 ![javascript](https://cdn.iconscout.com/icon/free/png-32/javascript-2752148-2284965.png)
-![typescript](https://cdn-icons-png.flaticon.com/512/5968/5968381.png)
-![C#](https://cdn-icons-png.flaticon.com/512/6132/6132221.png)
+![typescript](https://cdn-icons-png.flaticon.com/32/5968/5968381.png)
+![C#](https://cdn-icons-png.flaticon.com/32/6132/6132221.png)
 
 Conhecimento em diversas ferramentas de mercado:
 ReactJs, React Native, ASP.NET, SQL entre outras...
